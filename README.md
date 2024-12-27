@@ -1,2 +1,2 @@
-# capturezen
-Resources for websites using CaptureZen to collect email addresses
+# Capture Zen
+Capture Zen is a simple, stress-free way to capture email leads on your website
